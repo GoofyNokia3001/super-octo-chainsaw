@@ -9,3 +9,8 @@ $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 i created a code looking text!
 ```
+
+## This is task list:
+- [ ] Turn on GitHub
+- [ ] Make a profile
+- [ ] Introduce myself to the world
